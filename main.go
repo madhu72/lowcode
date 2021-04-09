@@ -2,8 +2,8 @@ package main
 
 import (
 	"log"
-	"github.com/madhu72/lowcode/service"
-	"github.com/madhu72/lowcode/example"
+	service "github.com/madhu72/lowcode/service"
+	example "github.com/madhu72/lowcode/example"
 )
 
 func main() {
