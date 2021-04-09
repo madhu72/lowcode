@@ -1,4 +1,3 @@
-github.com/madhu72/lowcode v0.0.0-20210409125014-4cc88d017f01/go.mod h1:xiksA+8IsTbV0SN6mj8L3AwFLFtxYviW1rpeX2jiTrM=
 github.com/madhu72/lowcode/example v0.0.0-20210409131210-3e0a12e4ed60 h1:dCzx3ILZaSBQ1ucBp22ZRvWXhUrBGbAxAdT3W/HH1zE=
 github.com/madhu72/lowcode/example v0.0.0-20210409131210-3e0a12e4ed60/go.mod h1:bbfbBpbGiVRZx21un5tNCge9HwPZGwVWPjW3doo3zh0=
 github.com/madhu72/lowcode/service v0.0.0-20210409131614-d7cdc365af13 h1:iCdhn6Qi1CZkawi341KHopkzd06jJHqsZT3vqPy7DXc=
