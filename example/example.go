@@ -1,4 +1,4 @@
-package github.com/madhu72/lowcode/example
+package example
 
 import (
 	"log"

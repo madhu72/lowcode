@@ -1,4 +1,4 @@
-package github.com/madhu72/lowcode/service
+package service
 
 type LowcodeService interface {
 	Start()
