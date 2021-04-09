@@ -1,4 +1,4 @@
-github.com/madhu72/lowcode/example v0.0.0-20210409131210-3e0a12e4ed60 h1:dCzx3ILZaSBQ1ucBp22ZRvWXhUrBGbAxAdT3W/HH1zE=
-github.com/madhu72/lowcode/example v0.0.0-20210409131210-3e0a12e4ed60/go.mod h1:bbfbBpbGiVRZx21un5tNCge9HwPZGwVWPjW3doo3zh0=
-github.com/madhu72/lowcode/service v0.0.0-20210409131614-d7cdc365af13 h1:iCdhn6Qi1CZkawi341KHopkzd06jJHqsZT3vqPy7DXc=
-github.com/madhu72/lowcode/service v0.0.0-20210409131614-d7cdc365af13/go.mod h1:77u19X6wYcKzYQ/QpK7zstFtn0pPbYznFkAC1mq7k7c=
+github.com/madhu72/lowcode/example v0.0.0-20210409134307-158e28646186 h1:YJVfr18X9eGtB//ecPDCVAfR0/j5CRc1twUHGMLwQo4=
+github.com/madhu72/lowcode/example v0.0.0-20210409134307-158e28646186/go.mod h1:bbfbBpbGiVRZx21un5tNCge9HwPZGwVWPjW3doo3zh0=
+github.com/madhu72/lowcode/service v0.0.0-20210409134307-158e28646186 h1:ZNRXjc1WP6SZeP1Rpvh0j3sE1TikNa8vwYxg/g3P3wk=
+github.com/madhu72/lowcode/service v0.0.0-20210409134307-158e28646186/go.mod h1:77u19X6wYcKzYQ/QpK7zstFtn0pPbYznFkAC1mq7k7c=
